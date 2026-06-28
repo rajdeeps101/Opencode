@@ -1,1 +1,1 @@
-print('This is Rajdeep\'s MAC')
+print('This is Rajdeep')
